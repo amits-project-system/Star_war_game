@@ -1,6 +1,10 @@
 🚀 Star War Game (Pygame)
 
-A simple 2D space shooting game built using Python and Pygame, where the player controls a spaceship, avoids enemies, and shoots bullets to score points.
+A simple 2D space shooting game built using Python and Pygame, where the player controls a spaceship, avoids enemies, and shoots bullets to score points. 
+
+🎮 control:--
+*hover the mouse to the ship location and press the left click and there you go untill u clicked mouse left button where your mouse icon goes there your ship goes.
+*for better experience hover bit slowly
 
 🎮 Features :--
 
