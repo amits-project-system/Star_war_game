@@ -47,7 +47,7 @@ python -m venv myenv
 Activate it:
 
 Windows:
-venv\Scripts\activate
+myenv\Scripts\activate.ps1
 
 Mac/Linux:
 source venv/bin/activate
