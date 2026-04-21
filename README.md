@@ -46,20 +46,19 @@ python -m venv myenv
 
 Activate it:
 
-Windows:
-myenv\Scripts\activate.ps1
+Windows:myenv\Scripts\activate.ps1
 
-Mac/Linux:
-source venv/bin/activate
+Mac/Linux:source venv/bin/activate
 
 3️⃣ Install Dependencies
-pip install -r requirements.txt
+       pip install -r requirements.txt
 
 If no requirements file:
 
 pip install pygame
+
 4️⃣ Run the Game
-python main.py
+          run main.py
 
 🎯 Controls
                Action	                              Control
