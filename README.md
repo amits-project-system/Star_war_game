@@ -1,12 +1,12 @@
-🚀 Star War Game (Pygame)
+# 🚀 Star War Game (Pygame)
 ![Screenshot](<Screenshot (78).png>)
 A simple 2D space shooting game built using Python and Pygame, where the player controls a spaceship, avoids enemies, and shoots bullets to score points. 
 
-🎮 control:--
+## 🎮 control:--
 *hover the mouse to the ship location and press the left click and there you go untill u clicked mouse left button where your mouse icon goes there your ship goes.
 *for better experience hover bit slowly
 
-🎮 Features :--
+## 🎮 Features :--
 
 🛸 Player-controlled spaceship (mouse + keyboard support)
 👾 Multiple enemy types
@@ -17,12 +17,12 @@ A simple 2D space shooting game built using Python and Pygame, where the player 
 🔁 Restart functionality
 
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 Python 3
 Pygame
 
 
-📂 Project Structure
+## 📂 Project Structure
 star_war_game/
 │── main.py              # Main game loop
 │── ship.py              # Player spaceship logic
@@ -36,7 +36,7 @@ star_war_game/
 
 
 
-⚙️ Installation & Setup
+## ⚙️ Installation & Setup
 
 1️⃣ Clone the Repository
 git clone https://github.com/amits-project-system/Star_war_game.git
@@ -60,16 +60,15 @@ pip install pygame
 4️⃣ Run the Game
           run main.py
 
-🎯 Controls
+##🎯 Controls
                Action	                              Control
              Move Ship	                          Mouse Movement
             Shoot / Action	                      Keyboard Input
              Restart Game	                        Mouse Click
 
 
-📸 Gameplay
 
-🧠 Future Improvements
+## 🧠 Future Improvements
 🔊 Add sound effects & background music
 🧩 Add levels & increasing difficulty
 ❤️ Add health/life system
@@ -77,15 +76,15 @@ pip install pygame
 🎨 Better UI & animations
 🤝 Contributing
 
-Feel free to fork this repo and improve the game!
+**Feel free to fork this repo and improve the game!**
 
-📄 License
+###📄 License
 
 This project is open-source and free to use.
 
-👨‍💻 Author
+### 👨‍💻 Author
 
-Amit Sasmal
+**Amit Sasmal**
 
 ⭐ If you like this project
 
